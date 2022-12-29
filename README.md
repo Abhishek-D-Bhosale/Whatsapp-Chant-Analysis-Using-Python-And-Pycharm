@@ -26,5 +26,15 @@ The core steps are :
    
    ![s03](https://user-images.githubusercontent.com/89337354/209995513-33d38b20-6670-439a-a763-efd9be7f81b4.png)
 
+   4.     
+     
+   ![s1](https://user-images.githubusercontent.com/89337354/209996872-8944fb0b-09bb-4ebe-bd63-52b939a53940.png)
+  
+   5.
+   
+   ![s2](https://user-images.githubusercontent.com/89337354/209996957-cf0727f6-d7a9-4ce6-a25e-642c6c1accd8.png)
 
-          
+   
+   
+   
+    
