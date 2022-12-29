@@ -14,11 +14,17 @@ The core steps are :
   
   The resultant Screens after processing and analyzing data are :
   
-   1.![s01](https://user-images.githubusercontent.com/89337354/209995237-acefcf8c-68b9-4fb0-8afc-06b9b21267c8.png)
+   1.
+   
+   ![s01](https://user-images.githubusercontent.com/89337354/209995237-acefcf8c-68b9-4fb0-8afc-06b9b21267c8.png)
           
-   2.![s02](https://user-images.githubusercontent.com/89337354/209995323-b65f1721-635a-44fb-b260-628042103a58.png)
+   2.
+   
+   ![s02](https://user-images.githubusercontent.com/89337354/209995323-b65f1721-635a-44fb-b260-628042103a58.png)
           
-   3.![s03](https://user-images.githubusercontent.com/89337354/209995513-33d38b20-6670-439a-a763-efd9be7f81b4.png)
+   3.
+   
+   ![s03](https://user-images.githubusercontent.com/89337354/209995513-33d38b20-6670-439a-a763-efd9be7f81b4.png)
 
 
           
