@@ -4,11 +4,11 @@ Using following core steps we can easily analyze any WhatsApp chat between you a
 
 The core steps are :
 
-  1.Data Sourcing 
+     1.Data Sourcing 
   
-  2.Data preparation 
+     2.Data preparation 
   
-  3.Data Exploration
+     3.Data Exploration
   
-  4.Data Presentation 
+     4.Data Presentation 
   
