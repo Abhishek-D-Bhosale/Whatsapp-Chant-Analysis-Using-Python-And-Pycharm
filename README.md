@@ -3,10 +3,15 @@ With WhatsApp chat analysis we can find a lot of information from our WhatsApp m
 Using following Libraries and core steps we can easily analyze any WhatsApp chat between you and your friend, customer, or even a group of people. We can further use this data for many other tasks of natural language processing.
 
 Libraries required are :
+
       1.Numpy
+      
       2.Pandas
+      
       3.Matplotlib
+      
       4.RegEx
+      
       5.wordcloud
 
 The core steps are :
