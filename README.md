@@ -12,7 +12,7 @@ Libraries required :
       
       4.RegEx
       
-      5.wordcloud
+      5.Wordcloud
 
 The core steps are :
 
